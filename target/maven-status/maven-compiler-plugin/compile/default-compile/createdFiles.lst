@@ -1,0 +1,7 @@
+com\task\TodoList\repository\MyTaskRepository.class
+com\task\TodoList\ToDoList.class
+com\task\TodoList\ServletInitializer.class
+com\task\TodoList\repository\MyToDoRepository.class
+com\task\TodoList\Task.class
+com\task\TodoList\TodoListApplication.class
+com\task\TodoList\ToDoListController.class
